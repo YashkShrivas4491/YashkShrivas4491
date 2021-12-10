@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashkumarshriv1" target="blank"><img src="https://img.shields.io/twitter/follow/yashkumarshriv1?logo=twitter&style=for-the-badge" alt="yashkumarshriv1" /></a> </p>
 
-- 🔭 I’m currently working on **Android Projects**
+- 🔭 I’m currently working on **My Coding Skills**
 
 - 🌱 I’m currently learning **DSA**
 
