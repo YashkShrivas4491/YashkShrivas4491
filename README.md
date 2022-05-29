@@ -1,5 +1,6 @@
-![align="right"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6oOq245tUsghs_ehdrh_MhHC6wdtYUNyMQ&usqp=CAU)
+![align="center"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6oOq245tUsghs_ehdrh_MhHC6wdtYUNyMQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
+
 <h3 align="center">A passionate frontend developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
