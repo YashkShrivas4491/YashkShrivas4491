@@ -1,4 +1,4 @@
-![align="center"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6oOq245tUsghs_ehdrh_MhHC6wdtYUNyMQ&usqp=CAU)
+![align="left"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6oOq245tUsghs_ehdrh_MhHC6wdtYUNyMQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
 
 <h3 align="center">A passionate frontend developer :)</h3>
