@@ -1,6 +1,4 @@
-<p align="center">   
-  <img width="200" src="[https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif]" alt="">
-</p>
+![align="center"](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
 <h3 align="center">A passionate frontend developer :)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
