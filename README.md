@@ -1,8 +1,8 @@
-![align="left"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6oOq245tUsghs_ehdrh_MhHC6wdtYUNyMQ&usqp=CAU)
+<p align="center">   
+![](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)
+</p>
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
-
 <h3 align="center">A passionate frontend developer :)</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obito9596" alt="obito9596" /></a> </p>
