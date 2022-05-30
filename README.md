@@ -6,7 +6,7 @@
 <h2 align="center>^_^ essentials to happiness in this life are something to do, something to love, and something to hope for.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obito9596" alt="obito9596" /></a> </p>
-<p align="left"> <a href="[https://twitter.com/yashkumarshriv1](https://twitter.com/YashKumarS1234)" target="blank"><img src="https://img.shields.io/twitter/follow/yashkumarshriv1?logo=twitter&style=for-the-badge" alt="[yashkumarshriv1](https://twitter.com/YashKumarS1234)" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Coding Skills**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yashkumarshriv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashkumarshriv1" height="30" width="40" /></a>
+<a href="https://twitter.com/YashKumarS1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashkumarshriv1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-kumar-shrivas-98a759126/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kumar-shrivas-98a759126/" height="30" width="40" /></a>
 </p>
 
