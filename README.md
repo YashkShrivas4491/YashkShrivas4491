@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obito9596" alt="obito9596" /></a> </p>
 
+<a href="https://app.daily.dev/Obito9596"><img src="https://api.daily.dev/devcards/9b17dad1c0ad42c5acb09d072dc5a3c6.png?r=m0w" width="400" alt="Yash Kumar Shrivas's Dev Card"/></a>
 
 - 🔭 I’m currently working on *My Coding Skills*
 
