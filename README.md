@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
-<h3 align="center">A passionate frontend developer :)</h3>
+<h3 align="center">A Passionate Frontend Developer :)</h3>
 
 ![align="center"](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)
 
 <h2 align="center>^_^ essentials to happiness in this life are something to do, something to love, and something to hope for.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obito9596" alt="obito9596" /></a> </p>
-
-<a href="https://app.daily.dev/Obito9596"><img src="https://api.daily.dev/devcards/9b17dad1c0ad42c5acb09d072dc5a3c6.png?r=m0w" width="400" alt="Yash Kumar Shrivas's Dev Card"/></a>
 
 - 🔭 I’m currently working on *My Coding Skills*
 
@@ -31,6 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obito9596&" alt="obito9596" /></p>
 
+[![Yash Kumar Shrivas github activity graph](https://activity-graph.herokuapp.com/graph?username=Obito9596&bg_color=1c1c1c&color=f5f5f5&line=4c959e&point=ffffff&area=true&hide_border=true)](https://github.com/Obito9596/github-readme-activity-graph)
 
 
 
