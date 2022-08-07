@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
 <h3 align="center">A Passionate Frontend Developer :)</h3>
 
-![align="center"](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif)
+![align="center"](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)
 
 <h2 align="center>^_^ essentials to happiness in this life are something to do, something to love, and something to hope for.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obito9596&label=Profile%20views&color=0e75b6&style=flat" alt="obito9596" /> </p>
