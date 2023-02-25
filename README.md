@@ -26,9 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashkShrivas4491&show_icons=true&locale=en" alt="YashkShrivas4491" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashkShrivas4491&" alt="YashkShrivas4491" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashkShrivas4491&bg_color=212121&color=f5fffc&line=04bed7&point=ffeb0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
