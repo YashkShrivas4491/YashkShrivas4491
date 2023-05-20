@@ -6,7 +6,7 @@
 
 * 🔭 I’m currently working on *My Coding Skills*.
 
-* 🌱 I’m currently learning *DSA*.
+* 🌱 I’m currently exploring Web Development.
 
 * 👯 I’m looking to collaborate on *Web based Projects*.
 
