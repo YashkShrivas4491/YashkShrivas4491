@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashkShrivas4491&" alt="YashkShrivas4491" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashkShrivas4491&bg_color=212121&color=f5fffc&line=04bed7&point=ffeb0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashkShrivas4491&bg_color=100f0f&color=ffffff&line=4c689e&point=fcb51d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Thank You Github](https://user-images.githubusercontent.com/41143496/111601768-b13aec00-87f8-11eb-8d8c-51db093db5da.gif)
 
