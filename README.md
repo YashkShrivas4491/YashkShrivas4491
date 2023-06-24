@@ -4,7 +4,6 @@
 ![align="center"](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
 ## 🚀 About Me
-<h3>I'm a frontend developer and always excited to contribute in open-source software and learn in public while sharing my knowledge with other developers 🧑‍💻.</h3>
 
 * 🔭 I’m currently working on *My Coding Skills*.
 
@@ -15,14 +14,10 @@
 * 📫 How to reach me *kumaryash4491@gmail.com*.
 
 * ⚡ Fun fact *I'm a FreeStyle Dancer 🕺*.
- 
-## GitHub🏆
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashkShrivas4491" alt="YashkShrivas4491" /></a> </p>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashkShrivas4491&label=Profile%20views&color=0e75b6&style=flat" alt="YashkShrivas4491" /> </p>
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yashkshrivas4491.github.io/Terminal_Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-shrivas-98a759126/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YashKumarS4491)
@@ -30,7 +25,7 @@
 
 ## 🛠 Language and tools :
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -56,14 +51,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashkShrivas4491&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YashkShrivas4491&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashkShrivas4491&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br clear="both">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YashkShrivas4491&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">🔥   My Stats :</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashkShrivas4491&" alt="YashkShrivas4491" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YashkShrivas4491&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/YashkShrivas4491/YashkShrivas4491/blob/output/github-contribution-grid-snake.gif)
+
+---
+[![](https://visitcount.itsvg.in/api?id=YashkShrivas4491&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashkShrivas4491&bg_color=100f0f&color=ffffff&line=4c689e&point=fcb51d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
