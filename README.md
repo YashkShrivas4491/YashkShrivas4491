@@ -1,3 +1,5 @@
+[![An image of @yash1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yash1234)](https://holopin.io/@yash1234)
+
 <h1 align="center">Hi 👋, I'm Yash Kumar Shrivas</h1>
 <h3 align="center">A Passionate Developer</h3>
 
