@@ -38,14 +38,19 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashkShrivas4491&theme=algolia" alt="Yash's graph">
 </div>
 
-<p align="left">
-  <a href="https://github.com/YashkShrivas4491">
-    <img src="https://github-readme-stats.vercel.app/api?username=YashkShrivas4491&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="Yash's GitHub stats">
+
+# Contribution 💖
+  <a>
+     <img src="https://github-readme-stats.vercel.app/api?username=YashkShrivas4491&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="Yash's GitHub stats">
   </a>
-<a align="right">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YashkShrivas4491&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true" alt="Contributor stats" align="right">
-</a>
-</p>
+
+  <a>
+     <img src="https://github-contributor-stats.vercel.app/api?username=YashkShrivas4491&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true" alt="Contributor stats">
+  </a>
+  
+
+
+
 
 
 
