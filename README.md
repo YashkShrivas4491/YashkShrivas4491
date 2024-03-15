@@ -1,4 +1,3 @@
-![github-header-image (3)](https://github.com/YashkShrivas4491/YashkShrivas4491/assets/87111197/93058ee8-9f16-43e8-920b-da21ce69bf4a)
 
 
 
